@@ -1,4 +1,4 @@
-# ESG-Predictor-Project
+# ESG Predictor
 
 # Ironhack Data Analytics Bootcamp Final Project
 
@@ -46,7 +46,7 @@ Used:
 - Testing the model.
 
 ### Data Exploration and Visualization
-Used Python and Tableau to visualize my overall data.
+- Used Python and Tableau to visualize my overall data.
 
 ### Model Training and Evaluation
 - Define predictors and target values (X, y)
@@ -59,5 +59,5 @@ Used Python and Tableau to visualize my overall data.
 
 ## Outlook
 
-1) Our model is a prototype due the lack of more environment and social diverse data at the given time for the project. Once this data is added as feature for the model, it would improve significantly and make it very useful.
+- Our model is a prototype due the lack of more environment and social diverse data at the given time for the project. Once this data is added as feature for the model, it would improve significantly and make it very useful.
 
