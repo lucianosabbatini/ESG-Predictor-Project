@@ -7,7 +7,7 @@
 
 ## Goals
 
-* To create a model and application to predict ESG Scores. 
+* To evaluate the efficiency of a model and application to predict ESG Scores based on financial datapoints. 
 
 Used:
 
