@@ -12,12 +12,12 @@
 Used:
 
 	* Python
-  * Statistical analysis
+ 	* Statistical analysis
 	* Data visualization
 	* Jupyter Notebook
 	* Tableau
 	* Machine Learning (Randon Forest)
-  * Web Scrapping and APIs
+  	* Web Scrapping and APIs
   
   ## Data Sources:
 
