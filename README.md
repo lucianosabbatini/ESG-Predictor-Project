@@ -11,13 +11,13 @@
 
 Used:
 
-* Python
-* Statistical analysis
-* Data visualization
-* Jupyter Notebook
-* Tableau
-* Machine Learning (Randon Forest)
-* Web Scrapping and APIs
+ * Python
+ * Statistical analysis
+ * Data visualization
+ * Jupyter Notebook
+ * Tableau
+ * Machine Learning (Randon Forest)
+ * Web Scrapping and APIs
   
   ## Data Sources:
 
