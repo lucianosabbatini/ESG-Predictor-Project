@@ -7,7 +7,7 @@
 
 ## Goals
 
-* To evaluate the efficiency of a model and application to predict ESG Scores based on financial datapoints and using Sustainalytics methodology as reference metrics.
+* To evaluate the efficiency of a model and application to predict ESG Risk Scores based on financial datapoints and using Sustainalytics methodology as reference metrics.
 * Reference: https://www.sustainalytics.com/corporate-solutions/esg-solutions/esg-risk-ratings#esg 
 
 Used:
