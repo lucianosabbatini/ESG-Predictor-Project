@@ -62,3 +62,9 @@ Used:
 
 - Our model is a prototype due the lack of more environment and social diverse data at the given time for the project. Once this data is added as feature for the model, it would improve significantly and make it very useful.
 
+### Contributors
+
+- Please feel free to contribute to this project by submitting feedback or pull requests. All contributions are welcome!
+
+- Please feel free to reach out to me at https://www.linkedin.com/in/luciano-sabbatini/.
+
