@@ -13,8 +13,8 @@
 Used:
 
  * Python
- * Statistical analysis
- * Data visualization
+ * Statistical Analysis
+ * Data Visualization
  * Jupyter Notebook
  * Tableau
  * Machine Learning (Randon Forest)
