@@ -39,32 +39,29 @@ Used:
 - Deleting  columns with identifier id on it 
 - Converting UNIX time into datetime
 - Analysing unique features of the dataset 
-- Analysing the relations between the sensorial factors and overall ratings ratings
+- Analysing the relations between the financial factors and overall ratings
 - Creating plots for better visualization
 - Creating new columns
-- Creating Step conclusions for each part of the analysis
-- Building a recommendation system
-- Testing the model.
+- Creating step conclusions for each part of the analysis
 
-### Data Exploration and Visualization
+### EDA and Visualization
 - Used Python and Tableau to visualize my overall data.
+- Used hyperparamether and feature selection techniques to find the most relevant features for the model. 
 
 ### Model Training and Evaluation
-- Define predictors and target values (X, y)
-- Standard scaling for numericals : for Train and Test set
 - Models : LinearRegression, MLPRegressor, KNN neighbors, RandonForestRegressor (the selected one)
 - Compared accuracy and cross validation 
 
 ### Presentation and Utilization
-- Created a Streamlit app for providing a free ESG Calculator tool for companies.
+- Powerpoint and a Streamlit app for providing a free ESG Calculator tool for companies.
 
 ## Outlook
 
-- Our model is a prototype due the lack of more environment and social diverse data at the given time for the project. Once this data is added as feature for the model, it would improve significantly and make it very useful.
+- Our model is a prototype based on Sustainalytics metrics, which include more than 80 non-financial datapoints, and we used only financial datapoints. Therefore, our model results can be considered a good foundantion for building a truly useful model. 
 
 ### Contributors
 
 - Please feel free to contribute to this project by submitting feedback or pull requests. All contributions are welcome!
 
-- Please feel free to reach out to me at https://www.linkedin.com/in/luciano-sabbatini/.
+- Do not hesitate to reach out to me at https://www.linkedin.com/in/luciano-sabbatini/.
 
